@@ -15,4 +15,4 @@ It shows the summary description and score of the current movies, and you can al
 - api
 
 <h2> 🎬 PREVIEW </h2>
-![](videom.gif)
+![](yetherrr.gif)
